@@ -9,7 +9,7 @@ I specialize in using modern technologies such as HTML, CSS, and JavaScript, as 
 * CSS
 * JS
 * React
-* git
+* GIT
 # Code Examples
 ```
 calculate(expression) {
