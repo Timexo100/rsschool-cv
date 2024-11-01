@@ -11,6 +11,7 @@ I specialize in using modern technologies such as HTML, CSS, and JavaScript, as 
 * React
 * GIT
 # Code Examples
+
 ```
 calculate(expression) {
     const pExp = expression.split(" ");
