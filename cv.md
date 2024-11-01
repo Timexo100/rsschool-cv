@@ -2,15 +2,15 @@
 ## Contact Information
 * Location: Moscow, Russia
 * Email: tmuhin@gmail.com
-# Brief Self-Introduction
+## Brief Self-Introduction
 I specialize in using modern technologies such as HTML, CSS, and JavaScript, as well as popular libraries and frameworks like React and Vue.js. My experience includes developing responsive interfaces, optimizing performance, and implementing best practices in UX/UI design to provide users with a pleasant and effective interaction experience with products.
-# Skills
+## Skills
 * HTML
 * CSS
 * JS
 * React
 * GIT
-# Code Examples
+## Code Examples
 
 ```
 calculate(expression) {
@@ -32,9 +32,9 @@ calculate(expression) {
 }
 
 ```
-# Work Experience
+## Work Experience
 Pet-projects
-# Education
+## Education
 * FreeCodeCamp
-# English Language
+## English Language
 * A2
