@@ -1,4 +1,4 @@
-# Timur Muhin
+# Tim Muhin
 ## Contact Information
 * Location: Moscow, Russia
 * Email: tmuhin@gmail.com
