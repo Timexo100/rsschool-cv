@@ -1,1 +1,1 @@
-# rsschool-cv
+<https://timexo100.github.io/rsschool-cv/cv>
